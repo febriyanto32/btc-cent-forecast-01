@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/btc-cent-forecast-01/febriyanto32/btc-cent-forecast-01/rank.svg)](https://make.fun/bounty/btc-cent-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
 [![reward](https://make.fun/badge/btc-cent-forecast-01/febriyanto32/btc-cent-forecast-01/reward.svg)](https://make.fun/bounty/btc-cent-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
 
+> **Results at a glance:** 43,690 cents mean error on the six practice cases, against the house baseline's 44,522 — **1.87% better**. The only trend model tested that also beats the baseline across 525 real checkpoints *and* in both freshest windows (Nov 6–9: −2.8%, Nov 10–13: −1.6%). Chosen from ~90 candidate models, not guessed.
+
 Four hours out, Bitcoin barely moves predictably — so this entry forecasts
 its price 240 minutes after each checkpoint by starting from the checkpoint
 close and nudging it only slightly, using the 4,320 one-minute closes (72 h)
